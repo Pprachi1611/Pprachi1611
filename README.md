@@ -72,7 +72,7 @@ Git • GitHub • VS Code
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/pprachi16/)"><img src="https://img.icons8.com/color/96/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/pprachi16"><img src="https://img.icons8.com/color/96/linkedin.png"/></a>
   <a href="https://github.com/Pprachi1611"><img src="https://img.icons8.com/ios-glyphs/90/github.png"/></a>
 </p>
 
