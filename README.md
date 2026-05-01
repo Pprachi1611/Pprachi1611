@@ -48,15 +48,12 @@ Git • GitHub • VS Code
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pprachi1611&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=Pprachi1611&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pprachi1611&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pprachi1611&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pprachi1611&layout=compact&theme=tokyonight"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pprachi1611&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
