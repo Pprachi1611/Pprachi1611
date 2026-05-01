@@ -23,7 +23,7 @@ I don’t just learn concepts — I focus on **applying AI/ML in real-world scen
 ## ⚙️ Tech Stack
 
 ### 🤖 AI / Machine Learning
-Python • NumPy • Pandas • Scikit-learn • TensorFlow (Learning)  • GenAI(Learning) •LLM(Learning)
+Python • NumPy • Pandas • Scikit-learn • TensorFlow (Learning) • GenAI (Learning) • LLM (Learning)
 
 ### ☁️ Cloud & Deployment
 AWS (Learning) • Docker (Basics) • GitHub Actions  
@@ -48,15 +48,12 @@ Git • GitHub • VS Code
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pprachi1611&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Pprachi1611&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pprachi1611&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pprachi1611&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pprachi1611&layout=compact&theme=tokyonight"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pprachi1611&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
