@@ -1,47 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a1a2e&height=200&section=header&text=PRACHI%20PATIL&fontSize=60&fontColor=00F7FF&fontAlignY=40&desc=AI%2FML%20Engineer%20•%20Cloud%20Enthusiast%20•%20Builder&descAlignY=62&descSize=18&descColor=B389FF"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Final-Year+Computer+Engineering+Student;AI+%2F+ML+%7C+GenAI+%7C+LLMs;Turning+Data+Into+Deployed+Intelligence" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Pprachi1611&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-1a1a2e?style=for-the-badge&labelColor=8A2BE2"/>
-
-<a href="https://www.linkedin.com/in/pprachi16"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Pprachi1611"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF"/></a>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=PRACHI%20PATIL&fontSize=70&fontColor=00F7FF&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20•%20Cloud%20Enthusiast%20•%20Builder&descAlignY=55&descSize=20&descColor=8A2BE2"/>
 
 </div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+whoami;Computer+Engineering+Student;AI+%2F+ML+%7C+GenAI+%7C+LLMs;Turning+Data+Into+Deployed+Intelligence+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pprachi1611&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge&labelColor=00F7FF"/>
+  <img src="https://img.shields.io/github/followers/Pprachi1611?label=FOLLOWERS&style=for-the-badge&color=0d1117&labelColor=8A2BE2"/>
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-success?style=for-the-badge&labelColor=0d1117"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pprachi16">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Pprachi1611">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+  </a>
+</p>
+
 <br/>
 
-## 👋 About Me
+## ⟡ ABOUT ME
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-**🎓 Currently**
-Final-year Computer Engineering student at PVGCOET (SPPU), Pune
-
-**🧭 Focused on**
-AI/ML systems that are scalable, efficient, and actually make it to production — not just notebooks
-
-**🌱 Learning right now**
-GenAI, LLMs, and AWS
-
-**🔮 Fun fact**
-Just as into Vedic Astrology as I am into vector embeddings
+```yaml
+prachi:
+  role: Final-Year Computer Engineering Student
+  university: SPPU — Pune, India
+  focus:
+    - AI/ML Engineering
+    - Cloud-Native Deployment
+    - Scalable System Design
+  learning_now:
+    - Generative AI
+    - Large Language Models
+    - AWS
+  philosophy: >
+    Don't just learn concepts — 
+    apply them to real systems that ship.
+  easter_egg: "Also fluent in Vedic Astrology 🔮"
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-I don't just learn concepts — I apply them.
+**⚡ What drives me**
 
-My work is about turning raw data into insight, and insight into systems that solve real problems. I care as much about *how a model gets deployed* as I do about *how it's trained* — the gap between a Jupyter notebook and a working product is where I like to spend my time.
-
-Currently building end-to-end AI projects, sharpening my cloud deployment skills, and studying system design for AI at scale.
+🔹 Turning raw data into insight
+🔹 Building systems that solve real problems
+🔹 Shipping ML models to production
+🔹 Learning relentlessly, in public
 
 </td>
 </tr>
@@ -49,76 +67,87 @@ Currently building end-to-end AI projects, sharpening my cloud deployment skills
 
 <br/>
 
-## 🎯 Currently
+## ⟡ CURRENTLY
 
-| | |
-|---|---|
-| 🔭 **Building** | AI-powered, production-grade projects end-to-end |
-| 🧪 **Practicing** | Model training, evaluation & optimization |
-| ☁️ **Deploying** | ML models on cloud platforms |
-| 📐 **Studying** | System design for scalable AI infrastructure |
-| 🌱 **Exploring** | GenAI & LLM-powered applications |
+<table>
+<tr>
+<td>🔭</td><td><b>Building</b></td><td>AI-powered, production-grade projects end-to-end</td>
+</tr>
+<tr>
+<td>🧪</td><td><b>Practicing</b></td><td>Model training, evaluation & optimization</td>
+</tr>
+<tr>
+<td>☁️</td><td><b>Deploying</b></td><td>ML models on cloud platforms</td>
+</tr>
+<tr>
+<td>📐</td><td><b>Studying</b></td><td>System design for scalable AI infrastructure</td>
+</tr>
+<tr>
+<td>🌱</td><td><b>Exploring</b></td><td>GenAI & LLM-powered applications</td>
+</tr>
+</table>
 
 <br/>
 
-## 🧰 Tech Stack
+## ⟡ TECH ARSENAL
 
 <div align="center">
 
 **AI / Machine Learning**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark"/>
-<br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/GenAI-Learning-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLMs-Learning-00A3A3?style=flat-square"/>
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=00F7FF&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=00F7FF&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=00F7FF&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/GenAI-8A2BE2?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/LLMs-00F7FF?style=flat-square&labelColor=0d1117&color=0d1117"/>
 
 **Cloud & DevOps**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions&theme=dark"/>
 
-<br/><br/>
-
 **Data & Databases**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
 
-<br/><br/>
-
 **Tools**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
+## ⟡ GITHUB ANALYTICS
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pprachi1611&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=B389FF&count_private=true"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=Pprachi1611&theme=radical&hide_border=true&background=0d1117&ring=00F7FF&fire=B389FF"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pprachi1611&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=8A2BE2&count_private=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Pprachi1611&theme=radical&hide_border=true&background=0d1117&ring=00F7FF&fire=8A2BE2"/>
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pprachi1611&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pprachi1611&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF"/>
 </p>
 
 <br/>
 
-## 📈 Contribution Activity
+## ⟡ TROPHY CASE
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pprachi1611&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7FF&line=B389FF&point=ffffff"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Pprachi1611&theme=radical&no-frame=true&no-bg=false&row=1&column=7"/>
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+## ⟡ ACTIVITY GRAPH
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pprachi1611&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7FF&line=8A2BE2&point=ffffff"/>
+</div>
+
+<br/>
+
+## ⟡ CONTRIBUTION SNAKE
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Pprachi1611/Pprachi1611/output/github-contribution-grid-snake-dark.svg"/>
@@ -132,14 +161,14 @@ This animates your contribution graph like a snake eating your commits. It needs
 
 <br/>
 
-## 🤝 Let's Connect
+## ⟡ LET'S CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pprachi16">
     <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
   </a>
   <a href="https://github.com/Pprachi1611">
-    <img src="https://img.shields.io/badge/-Explore%20my%20Repos-0d1117?style=for-the-badge&logo=github&logoColor=B389FF"/>
+    <img src="https://img.shields.io/badge/-Explore%20my%20Repos-0d1117?style=for-the-badge&logo=github&logoColor=8A2BE2"/>
   </a>
 </p>
 
@@ -147,6 +176,6 @@ This animates your contribution graph like a snake eating your commits. It needs
 
 ### `"Turning data into intelligence, and systems into impact."`
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer"/>
 
 </div>
