@@ -19,30 +19,43 @@
 
 ## 🧠 About Me
 
-I’m a Computer Engineering student focused on building **AI-powered systems that are scalable, efficient, and production-ready**.
+```
+if you.can_train(model) and you.can_ship(model):
+    you.are(Prachi)
+```
 
-I don’t just learn concepts — I focus on **applying AI/ML in real-world scenarios** and understanding how systems scale using cloud technologies.
+I'm a Computer Engineering student living at the intersection of **AI/ML** and **DevOps** — I don't just want to build smart models, I want to see them running reliably in production, monitored, containerized, and scaled the right way.
+
+To me, **AI/ML is the brain** and **DevOps is the nervous system** — one without the other is just a cool experiment sitting in a notebook. I care about both halves of that pipeline: from cleaning data and training models, to containerizing them, automating deployment, and keeping them alive in the real world.
 
 🔍 What drives me:
-• Turning raw data into meaningful insights
-• Building intelligent systems that solve real problems
-• Deploying ML models into real-world environments
-• Continuously learning and experimenting with new technologies
+• 🧬 Turning raw data into meaningful insights
+• 🤖 Building intelligent systems that solve real problems
+• 🚀 Deploying ML models into real-world environments, the DevOps way
+• ♾️ Continuously learning and experimenting with new technologies
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### 🤖 AI / Machine Learning
-Python • NumPy • Pandas • Scikit-learn • TensorFlow (Learning)  • GenAI(Learning) •LLM(Learning)
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark"/>
+
+Python • NumPy • Pandas • Scikit-learn • TensorFlow (Learning) • GenAI (Learning) • LLM (Learning)
 
 ### ☁️ Cloud & Deployment
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions&theme=dark"/>
+
 AWS (Learning) • Docker (Basics) • GitHub Actions
 
 ### 🗄 Data & Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+
 MySQL • MongoDB
 
 ### 🛠 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
 Git • GitHub • VS Code
 
 ---
@@ -64,7 +77,7 @@ Git • GitHub • VS Code
   <img src="https://github-readme-stats.vercel.app/api?username=Pprachi1611&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pprachi1611&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pprachi1611&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 ---
 
