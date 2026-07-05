@@ -4,6 +4,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineer+%7C+Cloud+Enthusiast;Building+Intelligent+and+Scalable+Systems;From+Data+to+Deployment+%F0%9F%9A%80" />
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Pprachi1611&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Pprachi1611?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-1a1a2e?style=for-the-badge&labelColor=8A2BE2"/>
+
+<a href="https://www.linkedin.com/in/pprachi16"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Pprachi1611"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF"/></a>
+
 </div>
 
 ---
