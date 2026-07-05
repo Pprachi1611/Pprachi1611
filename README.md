@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=PRACHI%20PATIL&fontSize=70&fontColor=00F7FF&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20•%20Cloud%20Enthusiast%20•%20Builder&descAlignY=55&descSize=20&descColor=B389FF"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=PRACHI%20PATIL&fontSize=70&fontColor=00F7FF&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20•%20Cloud%20Enthusiast%20•%20DevOps&descAlignY=55&descSize=20&descColor=B389FF"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineer+%7C+Cloud+Enthusiast;Building+Intelligent+and+Scalable+Systems;From+Data+to+Deployment+%F0%9F%9A%80" />
 
