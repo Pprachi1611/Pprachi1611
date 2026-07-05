@@ -19,20 +19,17 @@
 
 ## 🧠 About Me
 
-```
-if you.can_train(model) and you.can_ship(model):
-    you.are(Prachi)
-```
+I build AI/ML systems — and then make sure they actually survive outside a notebook.
 
-I'm a Computer Engineering student living at the intersection of **AI/ML** and **DevOps** — I don't just want to build smart models, I want to see them running reliably in production, monitored, containerized, and scaled the right way.
+That's the part most people skip. Training a model is one skill; containerizing it, automating its deployment, and keeping it running reliably in production is another. I care about both, and I'm building my skill set across the whole pipeline — not just the model.
 
-To me, **AI/ML is the brain** and **DevOps is the nervous system** — one without the other is just a cool experiment sitting in a notebook. I care about both halves of that pipeline: from cleaning data and training models, to containerizing them, automating deployment, and keeping them alive in the real world.
+**Right now, that looks like:**
+- 🧠 Learning and applying core ML — from data to trained models
+- ☁️ Picking up the cloud & DevOps side — Docker, GitHub Actions, AWS
+- 🧪 Exploring GenAI and LLMs as the next layer on top
+- 🛠️ Building real, end-to-end projects instead of isolated notebooks
 
-🔍 What drives me:
-• 🧬 Turning raw data into meaningful insights
-• 🤖 Building intelligent systems that solve real problems
-• 🚀 Deploying ML models into real-world environments, the DevOps way
-• ♾️ Continuously learning and experimenting with new technologies
+I'd rather ship something small and working than perfect something that never leaves my laptop.
 
 ---
 
