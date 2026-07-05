@@ -1,8 +1,10 @@
-<h1 align="center">Hi, I'm Prachi Patil 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineer+%7C+Cloud+Enthusiast;Building+Intelligent+and+Scalable+Systems;From+Data+to+Deployment+🚀" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=PRACHI%20PATIL&fontSize=70&fontColor=00F7FF&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20•%20Cloud%20Enthusiast%20•%20Builder&descAlignY=55&descSize=20&descColor=B389FF"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineer+%7C+Cloud+Enthusiast;Building+Intelligent+and+Scalable+Systems;From+Data+to+Deployment+%F0%9F%9A%80" />
+
+</div>
 
 ---
 
@@ -13,10 +15,10 @@ I’m a Computer Engineering student focused on building **AI-powered systems th
 I don’t just learn concepts — I focus on **applying AI/ML in real-world scenarios** and understanding how systems scale using cloud technologies.
 
 🔍 What drives me:
-* Turning raw data into meaningful insights  
-* Building intelligent systems that solve real problems  
-* Deploying ML models into real-world environments  
-* Continuously learning and experimenting with new technologies  
+• Turning raw data into meaningful insights
+• Building intelligent systems that solve real problems
+• Deploying ML models into real-world environments
+• Continuously learning and experimenting with new technologies
 
 ---
 
@@ -26,34 +28,34 @@ I don’t just learn concepts — I focus on **applying AI/ML in real-world scen
 Python • NumPy • Pandas • Scikit-learn • TensorFlow (Learning)  • GenAI(Learning) •LLM(Learning)
 
 ### ☁️ Cloud & Deployment
-AWS (Learning) • Docker (Basics) • GitHub Actions  
+AWS (Learning) • Docker (Basics) • GitHub Actions
 
 ### 🗄 Data & Databases
-MySQL • MongoDB  
+MySQL • MongoDB
 
 ### 🛠 Tools
-Git • GitHub • VS Code 
+Git • GitHub • VS Code
 
 ---
 
 ## 🚀 Current Focus
 
-* 🔹 Building AI-based real-world projects  
-* 🔹 Model training, evaluation & optimization  
-* 🔹 Deploying ML models on cloud platforms  
-* 🔹 Learning system design for scalable AI systems  
+• 🔹 Building AI-based real-world projects
+• 🔹 Model training, evaluation & optimization
+• 🔹 Deploying ML models on cloud platforms
+• 🔹 Learning system design for scalable AI systems
 
 ---
 
-## 📊 GitHub Stats 
-<p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=Pprachi1611&theme=tokyonight&hide_border=true"/> 
-</p> 
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pprachi1611&show_icons=true&theme=tokyonight&hide_border=true"/> 
-</p> 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pprachi1611&layout=compact&theme=tokyonight"/> 
+  <img src="https://streak-stats.demolab.com?user=Pprachi1611&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pprachi1611&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pprachi1611&layout=compact&theme=tokyonight"/>
 </p>
 ---
 
