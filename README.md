@@ -70,10 +70,31 @@ Git • GitHub • VS Code
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pprachi1611/Pprachi1611/main/github-metrics.svg"/>
+  <img src="https://streak-stats.demolab.com?user=Pprachi1611&theme=tokyonight&hide_border=true&cache_seconds=86400&date_format=%5Bj%20M%5D"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pprachi1611&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pprachi1611&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pprachi1611&theme=github-dark&hide_border=true"/>
+</p>
+
+<!-- 🐍 Contribution Snake Animation — see setup note below -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pprachi1611/Pprachi1611/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
