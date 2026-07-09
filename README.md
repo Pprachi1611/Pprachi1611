@@ -35,7 +35,7 @@ Python • NumPy • Pandas • Scikit-learn • TensorFlow (Learning) • GenAI
 ### ☁️ Cloud & Deployment
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions&theme=dark"/>
 
-AWS (Learning) • Docker (Basics) • GitHub Actions
+AWS (Learning) • Docker • GitHub Actions
 
 ### 🗄 Data & Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
