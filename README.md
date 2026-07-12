@@ -1,156 +1,137 @@
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=260&section=header&text=Prachi%20Patil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20DevOps%20%26%20Cloud%20Engineer&descAlignY=55&descSize=20" width="100%"/>
-
-<a href="https://github.com/Pprachi1611">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+DevOps+Engineer;Building+Production+Ready+Infrastructure;AWS+%E2%80%A2+Docker+%E2%80%A2+Kubernetes;Automating+Everything;Cloud+%E2%80%A2+CI%2FCD+%E2%80%A2+IaC&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=800&color=00C6FF&vCenter=true&size=24" alt="Typing SVG"/>
-</a>
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=PRACHI%20PATIL&fontSize=70&fontColor=00F7FF&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20•%20Cloud%20Enthusiast%20•%20DevOps&descAlignY=55&descSize=20&descColor=B389FF"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineer+%7C+Cloud+Enthusiast;Building+Intelligent+and+Scalable+Systems;From+Data+to+Deployment+%F0%9F%9A%80" />
 <br/>
 
-<a href="https://linkedin.com/in/pprachi16"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Pprachi1611"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<!-- 🆕 quick-glance badges -->
+<img src="https://komarev.com/ghpvc/?username=Pprachi1611&color=00F7FF&style=flat-square&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/Pprachi1611?style=flat-square&color=B389FF&label=Followers"/>
+<img src="https://img.shields.io/github/stars/Pprachi1611?style=flat-square&color=00F7FF&label=Stars"/>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:8e2de2&height=3&width=100%"/>
+## 🧠 About Me
 
-## 🧭 About Me
+I build AI/ML systems — and then make sure they actually survive outside a notebook.
 
-<img align="right" width="290" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
+That's the part most people skip. Training a model is one skill; containerizing it, automating its deployment, and keeping it running reliably in production is another. I care about both, and I'm building my skill set across the whole pipeline — not just the model.
 
-- 🔭 Focused on **Cloud Engineering, DevOps, CI/CD, Infrastructure as Code, Containers, Kubernetes, Linux & Automation**
-- ⚙️ I care more about **building reliable infrastructure** than just shipping applications
-- 🧱 I believe in **learning by building real-world projects**, not endless tutorials
-- 🐍 Background in **Python & Machine Learning** gives me visibility into the full software lifecycle
-- 🎯 **Goal:** become a highly skilled DevOps Engineer who can design, automate, deploy & monitor production-grade cloud infrastructure
+**Right now, that looks like:**
+• 🧠 Learning and applying core ML — from data to trained models
+• ☁️ Picking up the cloud & DevOps side — Docker, GitHub Actions, AWS
+• 🧪 Exploring GenAI and LLMs as the next layer on top
+• 🛠️ Building real, end-to-end projects instead of isolated notebooks
 
-<br clear="right"/>
+I'd rather ship something small and working than perfect something that never leaves my laptop.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:00c6ff&height=3&width=100%"/>
+　 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-## 🛠️ Tech Stack
+---
 
-<div align="center">
+## ⚙️ Tech Stack
 
-**Programming**
+### 🤖 AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=java,python,bash" />
+Python • NumPy • Pandas • Scikit-learn • TensorFlow (Learning) • GenAI (Learning) • LLM (Learning)
 
-**Cloud**
+### ☁️ Cloud & Deployment
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=aws" />
+AWS (Learning) • Docker • GitHub Actions
 
-**DevOps & Infrastructure**
+### 🗄 Data & Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,linux" />
+MySQL • MongoDB
 
-**Databases**
+### 🛠 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+Git • GitHub • VS Code
 
-**Version Control**
-
-<img src="https://skillicons.dev/icons?i=git,github" />
-
-**Currently Learning**
-
-<img src="https://skillicons.dev/icons?i=helm,prometheus,grafana,ansible" />
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/argoproj/argo-site@master/public/favicon.ico" width="24" height="24"/> ArgoCD
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:8e2de2&height=3&width=100%"/>
+---
 
 ## 🚀 Current Focus
 
-```yaml
-currently_building:
-  - Docker Projects
-  - Kubernetes Labs
-  - Terraform Infrastructure
-  - CI/CD Pipelines
-  - AWS Deployments
-  - Linux Automation
-  - End-to-End DevOps Projects
-```
+• 🔹 Building AI-based real-world projects
+• 🔹 Model training, evaluation & optimization
+• 🔹 Deploying ML models on cloud platforms
+• 🔹 Learning system design for scalable AI systems
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:00c6ff&height=3&width=100%"/>
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Pprachi1611/docker-practice">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pprachi1611&repo=docker-practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C6FF&icon_color=8E2DE2" />
-</a>
-<a href="https://github.com/Pprachi1611/dsa-journey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pprachi1611&repo=dsa-journey&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C6FF&icon_color=8E2DE2" />
-</a>
-<br/>
-<a href="https://github.com/Pprachi1611/kubernetes-labs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pprachi1611&repo=kubernetes-labs&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C6FF&icon_color=8E2DE2" />
-</a>
-<a href="https://github.com/Pprachi1611/terraform-labs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pprachi1611&repo=terraform-labs&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C6FF&icon_color=8E2DE2" />
-</a>
-<br/>
-<a href="https://github.com/Pprachi1611/aws-projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pprachi1611&repo=aws-projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C6FF&icon_color=8E2DE2" />
-</a>
-
-<!-- 📝 Repo pins render only once each repository exists publicly on your GitHub -->
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:8e2de2&height=3&width=100%"/>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:00c6ff&height=3&width=100%"/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pprachi1611&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C6FF&icon_color=8E2DE2&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pprachi1611&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C6FF" width="41%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pprachi1611&theme=tokyonight&hide_border=true&background=0d1117&ring=00C6FF&fire=8E2DE2" width="90%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pprachi1611&theme=react-dark&hide_border=true&bg_color=0d1117&color=00C6FF&line=8E2DE2&point=ffffff" width="90%"/>
-
-</div>
-
+<!-- 🆕 learning roadmap -->
 <details>
-<summary><strong>🏆 GitHub Trophies</strong></summary>
+<summary><strong>🗺️ Learning Roadmap</strong></summary>
 <br/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Pprachi1611&theme=algolia&no-frame=true&margin-w=10&column=7"/>
-</div>
+
+| Skill | Status |
+|---|:---:|
+| Python / ML Fundamentals | ✅ Done |
+| Git & GitHub | ✅ Done |
+| Docker | ✅ Done |
+| GitHub Actions | 🟡 In Progress |
+| AWS | 🟡 In Progress |
+| TensorFlow | 🟡 In Progress |
+| GenAI / LLMs | 🟡 In Progress |
+| System Design for AI | ⬜ Planned |
+
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:8e2de2&height=3&width=100%"/>
+---
 
+## 🏆 GitHub Trophies
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:00c6ff&height=3&width=100%"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pprachi1611&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1"/>
+</p>
 
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:00c6ff&height=3&width=100%"/>
+## 📊 GitHub Stats
 
-## 💬 Dev Quote
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pprachi1611&theme=tokyonight&hide_border=true&cache_seconds=86400&date_format=%5Bj%20M%5D"/>
+</p>
 
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pprachi1611&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pprachi1611&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
+</p>
 
-### *"Build. Automate. Deploy. Repeat."*
+<!-- 🆕 coding time — replace YOUR_WAKATIME_ID once you connect a wakatime.com account -->
+<p align="center">
+  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=150&section=footer"/>
+---
 
-</div>
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pprachi1611&theme=github-dark&hide_border=true"/>
+</p>
+
+<!-- 🐍 Contribution Snake Animation — see setup note below -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pprachi1611/Pprachi1611/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pprachi16"><img src="https://img.icons8.com/color/96/linkedin.png"/></a>
+  <a href="https://github.com/Pprachi1611"><img src="https://img.icons8.com/ios-glyphs/90/github.png"/></a>
+</p>
+
+---
+
+⭐ *"Turning data into intelligence, and systems into impact."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
