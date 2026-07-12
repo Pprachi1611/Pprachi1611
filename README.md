@@ -109,26 +109,7 @@ currently_building:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:8e2de2&height=3&width=100%"/>
 
-## 🗺️ Learning Journey
 
-<div align="center">
-
-| Skill | Status |
-|---|:---:|
-| Git | ✅ |
-| Linux | ✅ |
-| Docker | ✅ |
-| Kubernetes | 🟡 In Progress |
-| Jenkins | 🟡 In Progress |
-| Terraform | 🟡 In Progress |
-| AWS | 🟡 In Progress |
-| Helm | ⬜ Planned |
-| Prometheus | ⬜ Planned |
-| Grafana | ⬜ Planned |
-| ArgoCD | ⬜ Planned |
-| Ansible | ⬜ Planned |
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:00c6ff&height=3&width=100%"/>
 
@@ -155,65 +136,9 @@ currently_building:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:8e2de2&height=3&width=100%"/>
 
-## 🐍 Contribution Snake
-
-<!-- Set up via .github/workflows/snake.yml (Platane/snk action) to auto-generate this SVG -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/Pprachi1611/Pprachi1611/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:00c6ff&height=3&width=100%"/>
 
-## 📈 Profile & Repo Badges
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Pprachi1611&color=00c6ff&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Pprachi1611?style=flat-square&color=8e2de2&label=Followers)
-![Stars](https://img.shields.io/github/stars/Pprachi1611?style=flat-square&color=00c6ff&label=Stars)
-![Repos](https://img.shields.io/badge/dynamic/json?color=8e2de2&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPprachi1611&style=flat-square)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:8e2de2&height=3&width=100%"/>
-
-## 🎧 Extras
-
-<div align="center">
-
-**⏱️ Coding Time**
-<!-- WakaTime badge — connect at wakatime.com and replace the link below -->
-<br/>
-<img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="WakaTime"/>
-
-<br/><br/>
-
-**🎵 Currently Vibing To**
-<!-- Spotify now-playing — set up via github.com/kittinan/spotify-github-profile -->
-<br/>
-<img src="https://novatorem-tau.vercel.app/api/spotify" width="350"/>
-
-<br/><br/>
-
-**✍️ Latest Blog Posts**
-<!-- Auto-update via blog-post-workflow GitHub Action -->
-<!-- BLOG-POST-LIST:START -->
-- Coming soon
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
-
-**📺 Latest YouTube Videos**
-<!-- Add your channel videos here, or automate via a YouTube RSS action -->
-- Coming soon
-
-<br/>
-
-**🏅 Holopin Badges**
-<!-- Claim badges at holopin.io and paste your embed below -->
-<img src="https://holopin.me/Pprachi1611" width="90%"/>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:00c6ff&height=3&width=100%"/>
 
@@ -223,29 +148,6 @@ currently_building:
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 
-## 🖥️ Just For Fun
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="70%"/>
-<br/><br/>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="terminal gif"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:8e2de2&height=3&width=100%"/>
-
-## ☕ Support
-
-<div align="center">
-
-If you like my work, consider buying me a coffee ☕
-
-<a href="https://www.buymeacoffee.com/Pprachi1611"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-
-</div>
-
-<br/>
-
-<div align="center">
 
 ### *"Build. Automate. Deploy. Repeat."*
 
