@@ -4,15 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+DevOps+Engineer;Building+Production+Ready+Infrastructure;AWS+•+Docker+•+Kubernetes;Infrastructure+as+Code;Automating+Everything"/>
 
-<br>
 
-<img src="https://komarev.com/ghpvc/?username=Pprachi1611&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Pprachi1611?logo=github&style=for-the-badge&color=0891b2"/>
-
-<img src="https://img.shields.io/github/stars/Pprachi1611?affiliations=OWNER&style=for-the-badge&color=7c3aed"/>
-
-<br><br>
 
 <a href="https://github.com/Pprachi1611">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -160,44 +152,6 @@ Helm • ArgoCD • Prometheus • Grafana • Ansible
 <img width="750" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 </p>
-
----
-# 🚀 Featured Projects
-
-<p align="center">
-  <i>Building real-world projects to master modern DevOps practices.</i>
-</p>
-
-<br>
-
-<p align="center">
-<a href="https://github.com/Pprachi1611/docker-practice">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pprachi1611&repo=docker-practice&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Pprachi1611/dsa-journey">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pprachi1611&repo=dsa-journey&theme=tokyonight&hide_border=true"/>
-</a>
-</p>
-
-<br>
-
-<p align="center">
-
-<a href="https://github.com/Pprachi1611">
-<img src="https://img.shields.io/badge/🚧%20Kubernetes%20Labs-Coming%20Soon-0891b2?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Pprachi1611">
-<img src="https://img.shields.io/badge/🏗%20Terraform%20Labs-Coming%20Soon-7c3aed?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Pprachi1611">
-<img src="https://img.shields.io/badge/☁️%20AWS%20Projects-Coming%20Soon-ff9900?style=for-the-badge"/>
-</a>
-
-</p>
-
 ---
 
 # 🏆 GitHub Achievements
@@ -250,9 +204,7 @@ Helm • ArgoCD • Prometheus • Grafana • Ansible
 
 </p>
 
-> **Note:** The snake animation requires a GitHub Action workflow. I can provide the workflow if you haven't set it up yet.
 
----
 
 # 🌐 Connect With Me
 
