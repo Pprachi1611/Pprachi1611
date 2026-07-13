@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=PRACHI%20PATIL&fontSize=70&fontColor=00F7FF&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20•%20Cloud%20Enthusiast%20•%20DevOps&descAlignY=55&descSize=20&descColor=B389FF"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineer+%7C+Cloud+Enthusiast;Building+Intelligent+and+Scalable+Systems;From+Data+to+Deployment+%F0%9F%9A%80" />
-<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=PRACHI%20PATIL&fontSize=65&fontColor=00F7FF&animation=twinkling&fontAlignY=35&desc=Aspiring%20DevOps%20Engineer%20•%20Cloud%20Engineer%20•%20AWS%20Enthusiast&descAlignY=58&descSize=18&descColor=B389FF"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+DevOps+Engineer;Building+Production+Ready+Infrastructure;AWS+%7C+Docker+%7C+Kubernetes;Infrastructure+as+Code;CI%2FCD+Automation;Linux+%7C+Cloud+%7C+DevOps"/>
 
 </div>
 
@@ -50,7 +51,7 @@ Alongside DevOps, I also have experience with **Python**, giving me a broader un
 ### 🚀 DevOps & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,linux&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,linux&theme=dark"/>
 </p>
 
 ---
